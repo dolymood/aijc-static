@@ -257,7 +257,7 @@ gulp.task('s', ['connect', 'watch'], function() {
 
 /** 结束-----coffee server 部分 **/
 
-gulp.task('build', ['c', 'i', 'f'], function() {
+gulp.task('build', ['c', 'i'], function() {
 	gutil.log('build ok.')
 });
 
