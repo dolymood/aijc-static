@@ -1,0 +1,21 @@
+{
+  "name": "gulp_pj",
+  "version": "0.0.1",
+  "description": "gulp pj",
+  "author": "dolymood",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.5",
+    "gulp-util": "^2.2.19",
+    "gulp-load-plugins": "^0.5.3",
+    "gulp-uglify": "^0.3.1",
+    "gulp-minify-css": "^0.3.6",
+    "gulp-requirejs": "dolymood/gulp-requirejs",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.2.0",
+    "gulp-rev": "^0.4.1",
+    "gulp-imagemin": "^0.6.1",
+    "gulp-replace": "^0.4.0",
+    "gulp-rename": "^1.2.0"
+  }
+}
