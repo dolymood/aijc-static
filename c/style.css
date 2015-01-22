@@ -137,8 +137,8 @@ No styleguide reference.
 */
 @font-face {
   font-family: 'junctionregularRegular';
-  src: url('/f/Junction-webfont.eot');
-  src: url('/f/Junction-webfont.eot?#iefix') format('embedded-opentype'), url('/f/Junction-webfont.woff') format('woff'), url('/f/Junction-webfont.ttf') format('truetype'), url('/f/Junction-webfont.svg#junctionregularRegular') format('svg');
+  src: url('http://qiniu-chrome.qiniudn.com/f/Junction-webfont.eot');
+  src: url('http://qiniu-chrome.qiniudn.com/f/Junction-webfont.eot?#iefix') format('embedded-opentype'), url('http://qiniu-chrome.qiniudn.com/f/Junction-webfont.woff') format('woff'), url('http://qiniu-chrome.qiniudn.com/f/Junction-webfont.ttf') format('truetype'), url('http://qiniu-chrome.qiniudn.com/f/Junction-webfont.svg#junctionregularRegular') format('svg');
   font-weight: normal !important;
   font-style: normal;
 }
@@ -229,7 +229,7 @@ pre {
 /* MAIN
 --------------------------------------------------------------------------------- */
 .unit-article header {
-  background: url('/i/100-90-5-monochrome.png');
+  background: url('http://qiniu-chrome.qiniudn.com/i/100-90-5-monochrome.png');
   background-repeat: repeat;
   background-position: 0 0;
   background-color: #BADA55;
@@ -407,7 +407,7 @@ pre {
   text-transform: capitalize;
 }
 .unit-article .unit-foot {
-  background: url('/i/100-90-5-monochrome.png') repeat 0 0 #4d4d4d;
+  background: url('http://qiniu-chrome.qiniudn.com/i/100-90-5-monochrome.png') repeat 0 0 #4d4d4d;
   color: #fafafa;
   padding-top: 1.625em;
   padding-bottom: 1.625em;
@@ -433,7 +433,7 @@ pre {
 }
 /* post & page */
 .layout-page .tag_box {
-  background: url('/i/100-90-5-monochrome.png') repeat 0 0 #999999;
+  background: url('http://qiniu-chrome.qiniudn.com/i/100-90-5-monochrome.png') repeat 0 0 #999999;
   padding: 0.8125em;
   list-style: none;
   -webkit-border-radius: 3px;
