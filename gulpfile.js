@@ -157,7 +157,7 @@ gulp.task('cleancss', function() {
 
 });
 
-gulp.task('c', ['cleancss'], function() {
+gulp.task('c', function() {
 	gulp.src(cpath + '*.css')
 	.pipe(plugins.minifyCss())
 	.pipe(plugins.rev())
